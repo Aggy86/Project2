@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Project2/static/css/main.d32579af.chunk.css",
+    "main.js": "/Project2/static/js/main.5ecf3851.chunk.js",
+    "main.js.map": "/Project2/static/js/main.5ecf3851.chunk.js.map",
+    "runtime-main.js": "/Project2/static/js/runtime-main.73df993c.js",
+    "runtime-main.js.map": "/Project2/static/js/runtime-main.73df993c.js.map",
+    "static/js/2.4f8fffc3.chunk.js": "/Project2/static/js/2.4f8fffc3.chunk.js",
+    "static/js/2.4f8fffc3.chunk.js.map": "/Project2/static/js/2.4f8fffc3.chunk.js.map",
+    "index.html": "/Project2/index.html",
+    "static/css/main.d32579af.chunk.css.map": "/Project2/static/css/main.d32579af.chunk.css.map",
+    "static/js/2.4f8fffc3.chunk.js.LICENSE.txt": "/Project2/static/js/2.4f8fffc3.chunk.js.LICENSE.txt",
+    "static/media/5.31547fa2.png": "/Project2/static/media/5.31547fa2.png",
+    "static/media/alan-seal-horizontal-color.e753ad6b.png": "/Project2/static/media/alan-seal-horizontal-color.e753ad6b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73df993c.js",
+    "static/js/2.4f8fffc3.chunk.js",
+    "static/css/main.d32579af.chunk.css",
+    "static/js/main.5ecf3851.chunk.js"
+  ]
+}
